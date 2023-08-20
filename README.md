@@ -3,7 +3,11 @@
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
 ## Sobre mí:
-Soy un apasionado **Desarrollador JavaScript Full Stack** recién graduado del bootcamp soyHenry. Estoy listo para seguir aprendiendo y enfrentar nuevos desafíos.
+¡Hola! Soy **Gustavo Clemente**, un **Desarrollador JavaScript Full Stack** recién graduado del bootcamp **"Soy Henry"**. Mi pasión por el desarrollo se combina con una curiosidad insaciable y una mente creativa.
+
+Soy inquieto y curioso por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mi habilidad para liderar y mi actitud proactiva me permiten enfrentar problemas de manera efectiva y motivar a los equipos.
+
+Siempre listo para asumir nuevos proyectos y explorar lo desconocido. ¡Con un enfoque equilibrado en la tecnología y las relaciones humanas, estoy emocionado por las oportunidades que el futuro traerá!
 
 <br>
 <br>
