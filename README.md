@@ -5,6 +5,8 @@
 ### Sobre mí:
 Soy un apasionado **Desarrollador JavaScript Full Stack** recién graduado del bootcamp soyHenry. Estoy listo para seguir aprendiendo y enfrentar nuevos desafíos.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 ## Stack de tecnologías:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -16,7 +18,7 @@ Soy un apasionado **Desarrollador JavaScript Full Stack** recién graduado del b
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 Y más...
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Proyectos:
 Aquí hay algunos proyectos en los que he estado trabajando:
 
@@ -26,6 +28,8 @@ Aquí hay algunos proyectos en los que he estado trabajando:
 
    Repositorios: [Front-End](https://github.com/tatoclemente/PF-Front-End-Grupo3) • [Back-End](https://github.com/marcosgallardi/PF-Server)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 2. Henry's Food - Proyecto individual del bootcamp SoyHenry. <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/henrys-food.png?raw=true" width="200" />Es un aplicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas (Sponacular), fron-end con React.js y Redux. 
 
 
@@ -33,6 +37,7 @@ Aquí hay algunos proyectos en los que he estado trabajando:
 
    Repositorios: [Front-End](https://github.com/tatoclemente/henry-food) • [Back-End](https://github.com/tatoclemente/api-food)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 3. Rick and Morty App - Proyecto integrador, dónde <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/RyM.png?raw=true" width="200" />incorporamos todos los conocimientos adquiridos en el bootcamp a medida que el mismo iba avanzando.
 
@@ -40,6 +45,7 @@ Aquí hay algunos proyectos en los que he estado trabajando:
    Repositorios: [Front-End](https://github.com/tatoclemente/rick-and-morty-Front-End) • [Back-End](https://github.com/tatoclemente/rick-and-morty-app-Back-End)
    <br/><br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Datos de contacto:
 Puedes encontrarme en las siguientes plataformas:
 
