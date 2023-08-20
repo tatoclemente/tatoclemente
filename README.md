@@ -3,7 +3,7 @@
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
 ## Sobre mí:
-¡Hola! Soy un **Desarrollador JavaScript Full Stack** recién graduado del bootcamp **"Soy Henry"**. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
+Soy un **Desarrollador JavaScript Full Stack** recién graduado del bootcamp **"Soy Henry"**. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
 
 Soy inquieto y curioso por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mi habilidad para liderar y mi actitud proactiva me permiten enfrentar problemas de manera efectiva y motivar a los equipos.
 
