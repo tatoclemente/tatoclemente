@@ -10,7 +10,6 @@ Soy inquieto y curioso por naturaleza, siempre en busca de nuevos desafíos y so
 Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Con un enfoque equilibrado en la tecnología y las relaciones humanas, estoy emocionado por las oportunidades que el futuro traerá!
 
 <br>
-<br>
 
 -----
 
@@ -28,7 +27,6 @@ Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Co
 
 Y más...
 
-<br>
 <br>
 
 -----
@@ -68,10 +66,10 @@ Aquí hay algunos proyectos en los que he estado trabajando:
 ## Datos de contacto:
 Puedes encontrarme en las siguientes plataformas:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/tatoclemente)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/tatoclemente/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:tatoapuros@gmail.com?Subject=Contacto%20por%20colaboración)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&labelColor=101010)](https://walink.co/431822)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/tatoclemente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/tatoclemente/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&labelColor=101010)](mailto:tatoapuros@gmail.com?Subject=Contacto%20por%20colaboración)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=WhatsApp&logoColor=white&labelColor=101010)](https://walink.co/431822)
 
 
 - **Llama aquí: +54 3533 431705**
