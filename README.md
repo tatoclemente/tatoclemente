@@ -3,11 +3,11 @@
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
 ## Sobre mí:
-¡Hola! Soy **Gustavo Clemente**, un **Desarrollador JavaScript Full Stack** recién graduado del bootcamp **"Soy Henry"**. Mi pasión por el desarrollo se combina con una curiosidad insaciable y una mente creativa.
+¡Hola! Soy un **Desarrollador JavaScript Full Stack** recién graduado del bootcamp **"Soy Henry"**. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
 
 Soy inquieto y curioso por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mi habilidad para liderar y mi actitud proactiva me permiten enfrentar problemas de manera efectiva y motivar a los equipos.
 
-Siempre listo para asumir nuevos proyectos y explorar lo desconocido. ¡Con un enfoque equilibrado en la tecnología y las relaciones humanas, estoy emocionado por las oportunidades que el futuro traerá!
+Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Con un enfoque equilibrado en la tecnología y las relaciones humanas, estoy emocionado por las oportunidades que el futuro traerá!
 
 <br>
 <br>
@@ -71,9 +71,8 @@ Puedes encontrarme en las siguientes plataformas:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/tatoclemente)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/tatoclemente/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:tatoapuros@gmail.com?Subject=Contacto%20por%20colaboración)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](https://walink.co/431822)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&labelColor=101010)](https://walink.co/431822)
 
-
-- Puedes llamar aquí: +54 3533 431705
+[![LlamaAqui](https://img.shields.io/badge/📞llamame-009DB1?style=for-the-badge&&logoColor=white&labelColor=101010)](tel:+543533431705)
 
 ¡Conéctate conmigo para charlar sobre tecnología y desarrollo!
