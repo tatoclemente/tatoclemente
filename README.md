@@ -35,13 +35,16 @@ Y más...
 
 
 ## Proyectos:
-Aquí hay algunos proyectos en los que he estado trabajando:
+#### Aquí hay algunos proyectos en los que he estado trabajando:
 
 **El Festín** - Proyecto final (grupal) del bootcamp <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/el-festin.png?raw=true" width="200" />SoyHenry. Es un aplicación web Full Stack para un restaurantre, dónde darle a sus clientes una experiencia muy familiar y agradable a la hora de comprar desde casa o reservar una mesa. 
    
-   Deploy: [El festín](https://pf-front-end-grupo3.vercel.app/)
+####   Deploy: [El festín 🍴](https://pf-front-end-grupo3.vercel.app/)
 
-   Repositorios: [Front-End](https://github.com/tatoclemente/PF-Front-End-Grupo3) • [Back-End](https://github.com/marcosgallardi/PF-Server)
+####   Repositorios:
+ [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/PF-Front-End-Grupo3)
+ [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/marcosgallardi/PF-Server)
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -49,9 +52,11 @@ Aquí hay algunos proyectos en los que he estado trabajando:
 **Henry's Food** - Proyecto individual del bootcamp SoyHenry. <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/henrys-food.png?raw=true" width="200" />Es un aplicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas (Sponacular), fron-end con React.js y Redux. 
 
 
-   Deploy: [Henry's Food](https://henrysfood.netlify.app)
+####   Deploy: [Henry's Food](https://henrysfood.netlify.app)
 
-   Repositorios: [Front-End](https://github.com/tatoclemente/henry-food) • [Back-End](https://github.com/tatoclemente/api-food)
+####   Repositorios:
+ [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/henry-food)
+ [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/api-food)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -59,9 +64,11 @@ Aquí hay algunos proyectos en los que he estado trabajando:
 **Rick and Morty App** - Proyecto integrador, dónde <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/RyM.png?raw=true" width="200" />incorporamos todos los conocimientos adquiridos en el bootcamp a medida que el mismo iba avanzando.
 
 
-   Repositorios: [Front-End](https://github.com/tatoclemente/rick-and-morty-Front-End) • [Back-End](https://github.com/tatoclemente/rick-and-morty-app-Back-End)
+####   Repositorios: 
+ [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/rick-and-morty-app-Back-End)
+ [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/rick-and-morty-app-Back-End)
 
-<br><br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Datos de contacto:
 Puedes encontrarme en las siguientes plataformas:
