@@ -39,7 +39,7 @@ Y más...
 
 **El Festín** - Proyecto final (grupal) del bootcamp <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/el-festin.png?raw=true" width="200" />SoyHenry. Es un aplicación web Full Stack para un restaurantre, dónde darle a sus clientes una experiencia muy familiar y agradable a la hora de comprar desde casa o reservar una mesa. 
    
-####   Deploy: [El festín 🍴](https://pf-front-end-grupo3.vercel.app/)
+####  💻 Deploy: [El festín 🍴](https://pf-front-end-grupo3.vercel.app/)
 
 ####   Repositorios:
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/PF-Front-End-Grupo3)
@@ -52,7 +52,7 @@ Y más...
 **Henry's Food** - Proyecto individual del bootcamp SoyHenry. <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/henrys-food.png?raw=true" width="200" />Es un aplicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas (Sponacular), fron-end con React.js y Redux. 
 
 
-####   Deploy: [Henry's Food](https://henrysfood.netlify.app)
+####  💻 Deploy: [Henry's Food](https://henrysfood.netlify.app)
 
 ####   Repositorios:
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/tatoclemente/henry-food)
