@@ -2,10 +2,15 @@
 
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
-### Sobre mí:
+## Sobre mí:
 Soy un apasionado **Desarrollador JavaScript Full Stack** recién graduado del bootcamp soyHenry. Estoy listo para seguir aprendiendo y enfrentar nuevos desafíos.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br>
+<br>
+
+-----
+
+<br>
 
 ## Stack de tecnologías:
 
@@ -18,8 +23,15 @@ Soy un apasionado **Desarrollador JavaScript Full Stack** recién graduado del b
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 Y más...
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br>
+<br>
+
+-----
+
+<br>
+
+
 ## Proyectos:
 Aquí hay algunos proyectos en los que he estado trabajando:
 
