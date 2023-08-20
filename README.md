@@ -20,14 +20,14 @@ Y más...
 ## Proyectos:
 Aquí hay algunos proyectos en los que he estado trabajando:
 
-1. El Festín - Proyecto final (grupal) del bootcamp SoyHenry. Es un aplicación web Full Stack para un restaurantre, dónde darle a sus cliente una experiencia muy familiar y agradable a la hora de comprar desde casa o reservar una mesa. <br />
+1. El Festín - Proyecto final (grupal) del bootcamp SoyHenry. Es un aplicación web Full Stack para un restaurantre, dónde darle a sus clientes una experiencia muy familiar y agradable a la hora de comprar desde casa o reservar una mesa. <br />
    ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/AboutMe/main/images/el-festin.png) 
 
    Deploy: [El festín](https://pf-front-end-grupo3.vercel.app/)
 
    Repositorios: [Front-End](https://github.com/tatoclemente/PF-Front-End-Grupo3) • [Back-End](https://github.com/marcosgallardi/PF-Server)
 
-2. Henry's Food - Proyecto individual del bootcamp SoyHenry. Es un a plicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas, fron-end con React.js y Redux. <br />
+2. Henry's Food - Proyecto individual del bootcamp SoyHenry. Es un aplicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas, fron-end con React.js y Redux. <br />
    ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/AboutMe/main/images/henrys-food.png)
 
    Deploy: [Henry's Food](https://henrysfood.netlify.app)
