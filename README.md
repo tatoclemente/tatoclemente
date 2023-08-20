@@ -73,6 +73,7 @@ Puedes encontrarme en las siguientes plataformas:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:tatoapuros@gmail.com?Subject=Contacto%20por%20colaboración)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&labelColor=101010)](https://walink.co/431822)
 
-[![LlamaAqui](https://img.shields.io/badge/📞llamame-009DB1?style=for-the-badge&&logoColor=white&labelColor=101010)](tel:+543533431705)
+
+- **Llama aquí: +54 3533 431705**
 
 ¡Conéctate conmigo para charlar sobre tecnología y desarrollo!
