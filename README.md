@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola , Soy Gustavo Clemente </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/AboutMe/main/images/header-tato.png)
+![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
 ### Sobre mí:
 Soy un apasionado **Desarrollador JavaScript Full Stack** recién graduado del bootcamp soyHenry. Estoy listo para seguir aprendiendo y enfrentar nuevos desafíos.
@@ -21,21 +21,21 @@ Y más...
 Aquí hay algunos proyectos en los que he estado trabajando:
 
 1. El Festín - Proyecto final (grupal) del bootcamp SoyHenry. Es un aplicación web Full Stack para un restaurantre, dónde darle a sus clientes una experiencia muy familiar y agradable a la hora de comprar desde casa o reservar una mesa. <br />
-   ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/AboutMe/main/images/el-festin.png) 
+   ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/el-festin.png) 
 
    Deploy: [El festín](https://pf-front-end-grupo3.vercel.app/)
 
    Repositorios: [Front-End](https://github.com/tatoclemente/PF-Front-End-Grupo3) • [Back-End](https://github.com/marcosgallardi/PF-Server)
 
-2. Henry's Food - Proyecto individual del bootcamp SoyHenry. Es un aplicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas, fron-end con React.js y Redux. <br />
-   ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/AboutMe/main/images/henrys-food.png)
+2. Henry's Food - Proyecto individual del bootcamp SoyHenry. Es un aplicación web Full Stack de comidas, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de recetas (Sponacular), fron-end con React.js y Redux. <br />
+   ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/henrys-food.png)
 
    Deploy: [Henry's Food](https://henrysfood.netlify.app)
 
    Repositorios: [Front-End](https://github.com/tatoclemente/henry-food) • [Back-End](https://github.com/tatoclemente/api-food)
 
 3. Rick and Morty App - Proyecto integrador, dónde incorporamos todos los conocimientos adquiridos en el bootcamp a medida que el mismo iba avanzando. <br />
-![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/AboutMe/main/images/RyM.png)
+![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/RyM.png)
 
 Repositorios: [Front-End](https://github.com/tatoclemente/rick-and-morty-Front-End) • [Back-End](https://github.com/tatoclemente/rick-and-morty-app-Back-End)
 
