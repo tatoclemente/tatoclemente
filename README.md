@@ -41,6 +41,7 @@ Y más...
 
 ## Proyectos:
 
+<br>
 
 **Portfolio** - Mi portfolio es una colección de proyectos <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/portfolio.png?raw=true" width="200" /> en los que he trabajado y que muestran mi pasión por el desarrollo de software y el diseño web. Cada proyecto refleja mi dedicación para crear soluciones efectivas y atractivas, ya sea en aplicaciones web, sitios web interactivos o aplicaciones móviles. Explora mi trabajo para conocer mi estilo de desarrollo y mis habilidades técnicas, ¡y no dudes en contactarme si deseas colaborar o conocer más detalles sobre mis proyectos!
 
