@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy Gustavo Clemente </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Gustavo Clemente </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF" width="35" /></h1>
 
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
