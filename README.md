@@ -7,7 +7,7 @@ Soy un **Desarrollador JavaScript Full Stack** graduado del bootcamp **"Soy Henr
 
 Soy inquieto por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mis habilidades y actitud proactiva me permiten enfrentar problemas de manera efectiva.
 
-Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Con un enfoque equilibrado en la tecnología y las relaciones humanas, estoy emocionado por las oportunidades que el futuro traerá!
+Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Estoy emocionado por las oportunidades que el futuro traerá!
 
 <br>
 
