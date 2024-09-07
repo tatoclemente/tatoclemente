@@ -8,11 +8,15 @@ Soy un **Desarrollador JavaScript Full Stack** graduado del bootcamp **"Soy Henr
 Soy inquieto por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mis habilidades y actitud proactiva me permiten enfrentar problemas de manera efectiva.
 
 Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Estoy emocionado por las oportunidades que el futuro traerá!
-
+-----
 <br>
 
------
 
+[![](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+------
 <br>
 
 ## Tecnologías:
