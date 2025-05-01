@@ -3,7 +3,7 @@
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
 ## Sobre mí:
-Soy un **Desarrollador JavaScript Full Stack** graduado del bootcamp **"Soy Henry"**. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
+Soy un **Desarrollador Full Stack** con 2 años de experiencia. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
 
 Soy inquieto por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mis habilidades y actitud proactiva me permiten enfrentar problemas de manera efectiva.
 
@@ -24,10 +24,11 @@ Siempre estoy listo para asumir nuevos proyectos y explorar lo desconocido. ¡Es
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScrips-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)]()
-[![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=white&style=for-the-badge&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
