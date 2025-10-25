@@ -3,7 +3,7 @@
 ![https://github.com/tatoclemente](https://raw.githubusercontent.com/tatoclemente/tatoclemente/main/images/header-tato.png)
 
 ## Sobre mí:
-Soy un **Desarrollador Full Stack** con 2 años de experiencia. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
+Soy un **Desarrollador Full Stack** con 3 años de experiencia. Mi pasión por el desarrollo se combina con curiosidad insaciable y una mente creativa.
 
 Soy inquieto por naturaleza, siempre en busca de nuevos desafíos y soluciones innovadoras. Mis habilidades y actitud proactiva me permiten enfrentar problemas de manera efectiva.
 
